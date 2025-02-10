@@ -8,6 +8,8 @@ This repository demonstrates how to build a **multi-agent AI solution** using:
 
 The application showcases a shipping company where AI agents manage shipments, customers, and product information. The main goal is to demonstrate how AI agents can not only **query data** but also **act on it**, extending the "Chat With Your Data" concept to "Chat and Act on Your Data."
 
+![Multi-Agent AI Example with LangChain, AutoGen, Azure OpenAI, and Neon Serverless Postgres](/assets/multi-ai-agents.png)
+
 ---
 
 ## Features
