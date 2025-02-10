@@ -1,6 +1,6 @@
 # Multi-Agent AI Example with LangChain, AutoGen, Azure OpenAI, and Neon Serverless Postgres
 
-This repository demonstrates how to build a **multi-agent AI solution** using:
+This repository demonstrates how to build a **multi-agent AI solution** using: 
 - **LangChain** for natural language to SQL translation.
 - **[AutoGen](https://github.com/microsoft/autogen)** for coordinating AI agents in collaborative workflows.
 - **Azure OpenAI GPT-4o** for intelligent language understanding and generation of SQL queries in Neon PostgreSQL.
